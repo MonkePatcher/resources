@@ -1,0 +1,10 @@
+[
+  {
+    "id": "someId",
+    "author": "someAuthor"
+    "hashes": [
+      "aHash",
+      "anotherHash"
+     ]
+  }
+]
